@@ -1,0 +1,32 @@
+﻿<Window x:Class="Click_Speed_Test_Application.Results"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Click_Speed_Test_Application"
+        mc:Ignorable="d"
+        Title="Results" Height="250" Width="300" ResizeMode="NoResize"
+        FontFamily="Century Gothic" FontWeight="Bold"
+        WindowStyle="None">
+    <Grid x:Name="results">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="YOUR SPEED" Grid.Row="1" FontSize="36" TextAlignment="Center"/>
+        <TextBlock x:Name="clicksPerSecond" Text="x" Grid.Row="2" FontSize="60" TextAlignment="Center" Margin="0,-10,0,0"/>
+        <TextBlock Text="clicks per second" Grid.Row="3" FontSize="24" TextAlignment="Center"/>
+        <Button Content="TRY AGAIN" Grid.Row="4" FontSize="28" Click="Button_Click" Margin="60,10,60,0" BorderThickness="0" Background="Aqua"/>
+    </Grid>
+
+    <Window.Resources>
+        <Storyboard x:Key="CloseAnimation">
+            <DoubleAnimation From="1" To="0" Duration="0:0:0.4" Storyboard.TargetProperty="Opacity"/>
+        </Storyboard>
+    </Window.Resources>
+</Window>

@@ -1,0 +1,21 @@
+C:\Users\Mehmet\source\repos\Click Speed Test Application\bin\Debug\Click Speed Test Application.exe.config
+C:\Users\Mehmet\source\repos\Click Speed Test Application\bin\Debug\Click Speed Test Application.exe
+C:\Users\Mehmet\source\repos\Click Speed Test Application\bin\Debug\Click Speed Test Application.pdb
+C:\Users\Mehmet\source\repos\Click Speed Test Application\obj\Debug\Click Speed Test Application.csproj.AssemblyReference.cache
+C:\Users\Mehmet\source\repos\Click Speed Test Application\obj\Debug\Click Speed Test Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehmet\source\repos\Click Speed Test Application\obj\Debug\MainWindow.g.cs
+C:\Users\Mehmet\source\repos\Click Speed Test Application\obj\Debug\App.g.cs
+C:\Users\Mehmet\source\repos\Click Speed Test Application\obj\Debug\Click Speed Test Application_MarkupCompile.cache
+C:\Users\Mehmet\source\repos\Click Speed Test Application\obj\Debug\Click Speed Test Application_MarkupCompile.lref
+C:\Users\Mehmet\source\repos\Click Speed Test Application\obj\Debug\MainWindow.baml
+C:\Users\Mehmet\source\repos\Click Speed Test Application\obj\Debug\Click Speed Test Application.g.resources
+C:\Users\Mehmet\source\repos\Click Speed Test Application\obj\Debug\Click_Speed_Test_Application.Properties.Resources.resources
+C:\Users\Mehmet\source\repos\Click Speed Test Application\obj\Debug\Click Speed Test Application.csproj.GenerateResource.cache
+C:\Users\Mehmet\source\repos\Click Speed Test Application\obj\Debug\Click Speed Test Application.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\Click Speed Test Application\obj\Debug\Click Speed Test Application.exe
+C:\Users\Mehmet\source\repos\Click Speed Test Application\obj\Debug\Click Speed Test Application.pdb
+C:\Users\Mehmet\source\repos\Click Speed Test Application\obj\Debug\MenuButtonTheme.baml
+C:\Users\Mehmet\source\repos\Click Speed Test Application\obj\Debug\App.baml
+C:\Users\Mehmet\source\repos\Click Speed Test Application\obj\Debug\Results.g.cs
+C:\Users\Mehmet\source\repos\Click Speed Test Application\obj\Debug\Results.baml
+C:\Users\Mehmet\source\repos\Click Speed Test Application\obj\Debug\RippleButtonStyle.baml
